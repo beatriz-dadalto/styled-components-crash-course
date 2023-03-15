@@ -1,14 +1,16 @@
-## Practicing Styled Components. 
-Youtube [video](https://youtu.be/02zO0hZmwnw)
-
-### Demo
-
+## :metal: Practicing Styled Components. 
+Tutorial from the Youtube [video](https://youtu.be/02zO0hZmwnw)
 
 ### Tecnologies
 
 - [Styled Components](https://styled-components.com/docs)
 - [React](https://reactjs.org/docs/getting-started.html)
 - [React-Icons](https://react-icons.github.io/react-icons/)
+
+### Demo
+
+<img src="https://github.com/beatriz-dadalto/styled-components-crash-course/blob/master/image-demo.png?raw=true" width="468px"/>
+
 ### Run the project
 
 1. Open your terminal. copy and paste the codes below
